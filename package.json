@@ -1,5 +1,6 @@
 {
-  "name": "dice",
+  "name": "dice-roller",
+  "homepage": "https://shanejames90.github.io/dice-roller-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
